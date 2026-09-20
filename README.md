@@ -38,7 +38,9 @@ the data and scripts required to reproduce the corresponding analysis.
 - `Fig8/` – Nearest-neighbor level-spacing statistics of bound and
   full electronic spectra of symmetry-broken helicene chains.
 
-- `geometries/` – Q-Chem ground state calculation output files that contain geometry coordinates.
+- `FigS4/` – Average gap ratio statistics along the interpolated symmetry-breaking path of benzene.
+
+- `geometries/` –  Molecular coordinates.
 
 
 
