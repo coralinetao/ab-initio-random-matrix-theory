@@ -25,15 +25,10 @@ Wigner-Dyson distribution and the Poisson distribution.
 The noninteracting reference spectra are constructed from the
 Hartree-Fock orbital energies as
 
-\[
-E_{ia}
-=
-E_{\mathrm{gs}}
-+
-\epsilon_a
--
-\epsilon_i,
-\]
+$$
+E_{ia} = E_{\mathrm{gs}} + \epsilon_a - \epsilon_i,
+$$
+
 
 where \(i\) and \(a\) denote occupied and virtual Hartree-Fock
 orbitals, respectively.
